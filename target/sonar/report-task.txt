@@ -1,0 +1,6 @@
+projectKey=fr.uga.miage.m1:dilemme_g2_6
+serverUrl=http://im2ag-sonar.u-ga.fr:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://im2ag-sonar.u-ga.fr:9000/dashboard?id=fr.uga.miage.m1%3Adilemme_g2_6
+ceTaskId=AZJ27ceteo2LGamz66J0
+ceTaskUrl=http://im2ag-sonar.u-ga.fr:9000/api/ce/task?id=AZJ27ceteo2LGamz66J0
